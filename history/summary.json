@@ -2,21 +2,21 @@
   {
     "name": "Internet Access",
     "url": "https://tetragg.com",
-    "icon": "https://toppng.com/uploads/preview/book-internet-icon-white-11562892132afi42kloxz.png",
+    "icon": "https://www.pngkey.com/png/full/45-455131_white-internet-icon-png-clipart-library-library-internet.png",
     "slug": "internet-access",
     "status": "down",
-    "uptime": "2.28%",
-    "uptimeDay": "2.28%",
-    "uptimeWeek": "2.28%",
-    "uptimeMonth": "2.28%",
-    "uptimeYear": "2.28%",
+    "uptime": "30.20%",
+    "uptimeDay": "30.20%",
+    "uptimeWeek": "30.20%",
+    "uptimeMonth": "30.20%",
+    "uptimeYear": "30.20%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-13": 22
+      "2021-11-13": 26
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://jellyfin.org/favicon.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "1.10%",
+    "uptimeDay": "1.10%",
+    "uptimeWeek": "1.10%",
+    "uptimeMonth": "1.10%",
+    "uptimeYear": "1.10%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-13": 1015
+      "2021-11-13": 1020
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://nextcloud.com/wp-content/themes/next/assets/img/common/favicon.png",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "1.10%",
+    "uptimeDay": "1.10%",
+    "uptimeWeek": "1.10%",
+    "uptimeMonth": "1.10%",
+    "uptimeYear": "1.10%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-13": 1016
+      "2021-11-13": 1020
     }
   }
 ]
