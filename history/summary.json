@@ -1,42 +1,62 @@
 [
   {
-    "name": "Nextcloud",
-    "url": "https://nextcloud.tetragg.com",
-    "icon": "https://fr.wikipedia.org/wiki/Fichier:Nextcloud_Logo.svg",
-    "slug": "nextcloud",
+    "name": "Internet Access",
+    "url": "https://tetragg.com",
+    "icon": "https://cdn-icons-png.flaticon.com/512/180/180163.png",
+    "slug": "internet-access",
     "status": "down",
-    "uptime": "16.02%",
-    "uptimeDay": "16.02%",
-    "uptimeWeek": "16.02%",
-    "uptimeMonth": "16.02%",
-    "uptimeYear": "16.02%",
+    "uptime": "32.43%",
+    "uptimeDay": "32.43%",
+    "uptimeWeek": "32.43%",
+    "uptimeMonth": "32.43%",
+    "uptimeYear": "32.43%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-13": 3
+      "2021-11-13": 1
+    }
+  },
+  {
+    "name": "Nextcloud",
+    "url": "https://nextcloud.tetragg.com",
+    "icon": "https://nextcloud.com/wp-content/themes/next/assets/img/common/favicon.png",
+    "slug": "nextcloud",
+    "status": "down",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-11-13": 995
     }
   },
   {
     "name": "Jellyfin",
     "url": "https://jellyfin.tetragg.com",
-    "icon": "https://framalibre.org/sites/default/files/leslogos/jellyfin_logo.png",
+    "icon": "https://jellyfin.org/favicon.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "19.56%",
-    "uptimeDay": "19.56%",
-    "uptimeWeek": "19.56%",
-    "uptimeMonth": "19.56%",
-    "uptimeYear": "19.56%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-13": 2
+      "2021-11-13": 995
     }
   }
 ]
