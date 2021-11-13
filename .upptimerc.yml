@@ -4,16 +4,16 @@ repo: Upptime
 sites:
   - name: Internet Access
     url: https://tetragg.com
-    icon: https://cdn-icons-png.flaticon.com/512/180/180163.png
-    assignees: TetraGG
-  - name: Nextcloud
-    url: https://nextcloud.tetragg.com
-    icon: https://nextcloud.com/wp-content/themes/next/assets/img/common/favicon.png
-    method: POST
+    icon: https://toppng.com/uploads/preview/book-internet-icon-white-11562892132afi42kloxz.png
     assignees: TetraGG
   - name: Jellyfin
     url: https://jellyfin.tetragg.com
     icon: https://jellyfin.org/favicon.ico
+    method: POST
+    assignees: TetraGG
+  - name: Nextcloud
+    url: https://nextcloud.tetragg.com
+    icon: https://nextcloud.com/wp-content/themes/next/assets/img/common/favicon.png
     method: POST
     assignees: TetraGG
     
