@@ -1,32 +1,31 @@
-# Change these first
-owner: TetraGG # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: TetraGG
+repo: Upptime
 
 sites:
+  - name: Internet Access
+    url: https://tetragg.com
+    icon: https://cdn-icons-png.flaticon.com/512/180/180163.png
+    assignees: TetraGG
   - name: Nextcloud
     url: https://nextcloud.tetragg.com
-    icon: https://fr.wikipedia.org/wiki/Fichier:Nextcloud_Logo.svg
+    icon: https://nextcloud.com/wp-content/themes/next/assets/img/common/favicon.png
+    method: POST
     assignees: TetraGG
   - name: Jellyfin
     url: https://jellyfin.tetragg.com
-    icon: https://framalibre.org/sites/default/files/leslogos/jellyfin_logo.png
+    icon: https://jellyfin.org/favicon.ico
+    method: POST
     assignees: TetraGG
     
 status-website:
-  theme: dark
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.tetragg.com
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: TetraGG
-  #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  cname: status.tetragg.com
+  theme: night
+  introTitle: "**TetraGG** domain uptime monitor and status page"
+  introMessage: "This page permits to follow in real-time the accessibility of TetraGG domains and provided services."
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
