@@ -6,6 +6,11 @@ sites:
     url: https://tetragg.com
     icon: https://www.pngkey.com/png/full/45-455131_white-internet-icon-png-clipart-library-library-internet.png
     assignees: TetraGG
+  - name: Proxmox
+    url: $Proxmox_URL
+    icon: https://www.proxmox.com/templates/yoo_nano2/favicon.ico
+    method: POST
+    assignees: TetraGG
   - name: Jellyfin
     url: https://jellyfin.tetragg.com
     icon: https://jellyfin.org/favicon.ico
@@ -16,7 +21,7 @@ sites:
     icon: https://nextcloud.com/wp-content/themes/next/assets/img/common/favicon.png
     method: POST
     assignees: TetraGG
-    
+
 status-website:
   name: TetraGG
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
