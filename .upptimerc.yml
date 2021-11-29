@@ -7,7 +7,7 @@ sites:
     icon: https://www.pngkey.com/png/full/45-455131_white-internet-icon-png-clipart-library-library-internet.png
     assignees: TetraGG
   - name: Proxmox
-    url: $Proxmox_URL
+    url: $PROXMOX_URL
     icon: https://www.proxmox.com/templates/yoo_nano2/favicon.ico
     method: POST
     assignees: TetraGG
