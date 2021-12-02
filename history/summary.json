@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 610,
-    "timeDay": 643,
-    "timeWeek": 610,
-    "timeMonth": 610,
-    "timeYear": 610,
+    "time": 620,
+    "timeDay": 720,
+    "timeWeek": 642,
+    "timeMonth": 620,
+    "timeYear": 620,
     "dailyMinutesDown": {
       "2021-11-13": 26
     }
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-01": 47,
+      "2021-12-02": 43,
+      "2021-12-01": 1440,
       "2021-11-30": 1440,
       "2021-11-29": 815
     }
@@ -47,16 +48,16 @@
     "icon": "https://jellyfin.org/favicon.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "96.07%",
+    "uptime": "96.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.07%",
-    "uptimeYear": "96.07%",
-    "time": 720,
-    "timeDay": 997,
-    "timeWeek": 720,
-    "timeMonth": 720,
-    "timeYear": 720,
+    "uptimeMonth": "96.27%",
+    "uptimeYear": "96.27%",
+    "time": 738,
+    "timeDay": 921,
+    "timeWeek": 765,
+    "timeMonth": 738,
+    "timeYear": 738,
     "dailyMinutesDown": {
       "2021-11-13": 1020
     }
@@ -67,16 +68,16 @@
     "icon": "https://nextcloud.com/wp-content/themes/next/assets/img/common/favicon.png",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "96.06%",
+    "uptime": "96.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.06%",
-    "uptimeYear": "96.06%",
-    "time": 819,
-    "timeDay": 1095,
-    "timeWeek": 819,
-    "timeMonth": 819,
-    "timeYear": 819,
+    "uptimeMonth": "96.27%",
+    "uptimeYear": "96.27%",
+    "time": 802,
+    "timeDay": 627,
+    "timeWeek": 814,
+    "timeMonth": 802,
+    "timeYear": 802,
     "dailyMinutesDown": {
       "2021-11-13": 1020
     }
