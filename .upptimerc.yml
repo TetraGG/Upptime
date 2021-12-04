@@ -3,9 +3,17 @@ repo: Upptime
 assignees: TetraGG
 
 sites:
-  - name: Internet Access
+  #  - name: Internet Access
+  #     url: https://tetragg.com
+  #    icon: https://www.pngkey.com/png/full/45-455131_white-internet-icon-png-clipart-library-library-internet.png
+  #    method: GET
+  #    expectedStatusCodes:
+  #      - 200
+  #      - 201
+  #      - 404
+  - name: Traefik
     url: https://tetragg.com
-    icon: https://www.pngkey.com/png/full/45-455131_white-internet-icon-png-clipart-library-library-internet.png
+    icon: https://github.com/traefik/traefik/blob/master/webui/src/statics/icons/favicon.ico
     method: GET
     expectedStatusCodes:
       - 200
@@ -23,11 +31,14 @@ sites:
     url: https://jellyfin.tetragg.com
     icon: https://jellyfin.org/favicon.ico
     method: GET
+  - name: Jenkins
+    url: https://jenkins.tetragg.com
+    icon: https://www.jenkins.io/favicon.ico
+    method: GET
   - name: Nextcloud
     url: https://nextcloud.tetragg.com
     icon: https://nextcloud.com/wp-content/themes/next/assets/img/common/favicon.png
     method: GET
-
 status-website:
   name: TetraGG
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
