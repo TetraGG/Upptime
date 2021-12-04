@@ -6,7 +6,7 @@ sites:
   - name: Internet Access
     url: https://tetragg.com
     icon: https://www.pngkey.com/png/full/45-455131_white-internet-icon-png-clipart-library-library-internet.png
-    method: PING
+    method: ICMP
   - name: Proxmox
     url: $PROXMOX_URL
     icon: https://www.proxmox.com/templates/yoo_nano2/favicon.ico
