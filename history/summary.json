@@ -50,19 +50,17 @@
     "icon": "https://gitlab.com/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png",
     "slug": "gitlab",
     "status": "up",
-    "uptime": "3.76%",
-    "uptimeDay": "3.76%",
-    "uptimeWeek": "3.76%",
-    "uptimeMonth": "3.76%",
-    "uptimeYear": "3.76%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 730,
     "timeDay": 730,
     "timeWeek": 730,
     "timeMonth": 730,
     "timeYear": 730,
-    "dailyMinutesDown": {
-      "2021-12-04": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Jellyfin",
