@@ -4,17 +4,17 @@
     "url": "https://tetragg.com",
     "icon": "https://www.pngkey.com/png/full/45-455131_white-internet-icon-png-clipart-library-library-internet.png",
     "slug": "internet-access",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 604,
-    "timeDay": 619,
-    "timeWeek": 630,
-    "timeMonth": 604,
-    "timeYear": 604,
+    "time": 609,
+    "timeDay": 631,
+    "timeWeek": 634,
+    "timeMonth": 609,
+    "timeYear": 609,
     "dailyMinutesDown": {
       "2021-11-13": 26
     }
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-04": 774,
+      "2021-12-04": 781,
       "2021-12-03": 1440,
       "2021-12-02": 1440,
       "2021-12-01": 1440,
@@ -55,11 +55,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 931,
-    "timeDay": 931,
-    "timeWeek": 931,
-    "timeMonth": 931,
-    "timeYear": 931,
+    "time": 972,
+    "timeDay": 972,
+    "timeWeek": 972,
+    "timeMonth": 972,
+    "timeYear": 972,
     "dailyMinutesDown": {}
   },
   {
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.71%",
     "uptimeYear": "96.71%",
-    "time": 752,
-    "timeDay": 828,
+    "time": 754,
+    "timeDay": 821,
     "timeWeek": 786,
-    "timeMonth": 752,
-    "timeYear": 752,
+    "timeMonth": 754,
+    "timeYear": 754,
     "dailyMinutesDown": {
       "2021-11-13": 1020
     }
@@ -93,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.71%",
     "uptimeYear": "96.71%",
-    "time": 791,
-    "timeDay": 803,
-    "timeWeek": 796,
-    "timeMonth": 791,
-    "timeYear": 791,
+    "time": 794,
+    "timeDay": 809,
+    "timeWeek": 799,
+    "timeMonth": 794,
+    "timeYear": 794,
     "dailyMinutesDown": {
       "2021-11-13": 1020
     }
