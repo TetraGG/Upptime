@@ -11,6 +11,11 @@ sites:
     icon: https://www.proxmox.com/templates/yoo_nano2/favicon.ico
     method: POST
     assignees: TetraGG
+  - name: Gitlab
+    url: https://gitlab.tetragg.com
+    icon: https://gitlab.com/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png
+    method: POST
+    assignees: TetraGG
   - name: Jellyfin
     url: https://jellyfin.tetragg.com
     icon: https://jellyfin.org/favicon.ico
