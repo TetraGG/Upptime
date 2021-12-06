@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-06": 46,
+      "2021-12-06": 1097,
       "2021-12-05": 1440,
       "2021-12-04": 1440,
       "2021-12-03": 1440,
@@ -49,36 +49,39 @@
     "url": "https://gitlab.tetragg.com",
     "icon": "https://gitlab.com/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png",
     "slug": "gitlab",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 938,
     "timeDay": 893,
     "timeWeek": 938,
     "timeMonth": 938,
     "timeYear": 938,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-06": 0
+    }
   },
   {
     "name": "Jellyfin",
     "url": "https://jellyfin.tetragg.com",
     "icon": "https://jellyfin.org/favicon.ico",
     "slug": "jellyfin",
-    "status": "up",
-    "uptime": "96.92%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.02%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.92%",
-    "uptimeYear": "96.92%",
+    "uptimeMonth": "97.02%",
+    "uptimeYear": "97.02%",
     "time": 742,
     "timeDay": 725,
-    "timeWeek": 761,
+    "timeWeek": 757,
     "timeMonth": 742,
     "timeYear": 742,
     "dailyMinutesDown": {
+      "2021-12-06": 0,
       "2021-11-13": 1020
     }
   },
@@ -99,7 +102,7 @@
     "timeMonth": 551,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2021-12-06": 46,
+      "2021-12-06": 1097,
       "2021-12-05": 1440,
       "2021-12-04": 370
     }
@@ -109,18 +112,19 @@
     "url": "https://nextcloud.tetragg.com",
     "icon": "https://nextcloud.com/wp-content/themes/next/assets/img/common/favicon.png",
     "slug": "nextcloud",
-    "status": "up",
-    "uptime": "96.92%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.01%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.92%",
-    "uptimeYear": "96.92%",
+    "uptimeMonth": "97.01%",
+    "uptimeYear": "97.01%",
     "time": 774,
     "timeDay": 613,
-    "timeWeek": 770,
+    "timeWeek": 753,
     "timeMonth": 774,
     "timeYear": 774,
     "dailyMinutesDown": {
+      "2021-12-06": 0,
       "2021-11-13": 1020
     }
   }
