@@ -20,7 +20,7 @@ sites:
       - 201
       - 404
   - name: Proxmox
-    url: $PROXMOX_URL
+    url: https://pve.tetragg.com
     icon: https://www.proxmox.com/templates/yoo_nano2/favicon.ico
     method: GET
   - name: Gitlab
