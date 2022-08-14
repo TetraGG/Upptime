@@ -11,30 +11,31 @@ sites:
   #      - 200
   #      - 201
   #      - 404
-  - name: Traefik
-    url: https://tetragg.com
+  - name: Proxy
+    url: https://proxy.tetragg.com
     icon: https://github.com/traefik/traefik/blob/master/webui/src/statics/icons/favicon.ico
     method: GET
     expectedStatusCodes:
       - 200
       - 201
+      - 401
       - 404
   - name: Proxmox
     url: https://pve.tetragg.com
     icon: https://www.proxmox.com/templates/yoo_nano2/favicon.ico
     method: GET
-  - name: Gitlab
-    url: https://gitlab.tetragg.com
-    icon: https://gitlab.com/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png
-    method: GET
+#  - name: Gitlab
+#    url: https://gitlab.tetragg.com
+#    icon: https://gitlab.com/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png
+#    method: GET
   - name: Jellyfin
     url: https://jellyfin.tetragg.com
     icon: https://jellyfin.org/favicon.ico
     method: GET
-  - name: Jenkins
-    url: https://jenkins.tetragg.com
-    icon: https://www.jenkins.io/favicon.ico
-    method: GET
+#  - name: Jenkins
+#    url: https://jenkins.tetragg.com
+#    icon: https://www.jenkins.io/favicon.ico
+#    method: GET
   - name: Nextcloud
     url: https://nextcloud.tetragg.com
     icon: https://nextcloud.com/wp-content/themes/next/assets/img/common/favicon.png
