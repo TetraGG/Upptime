@@ -4,19 +4,19 @@
     "url": "https://proxy.tetragg.com",
     "icon": "https://github.com/traefik/traefik/blob/master/webui/src/statics/icons/favicon.ico",
     "slug": "proxy",
-    "status": "up",
-    "uptime": "98.58%",
-    "uptimeDay": "69.70%",
-    "uptimeWeek": "72.33%",
-    "uptimeMonth": "93.23%",
-    "uptimeYear": "98.58%",
+    "status": "down",
+    "uptime": "98.59%",
+    "uptimeDay": "69.59%",
+    "uptimeWeek": "72.32%",
+    "uptimeMonth": "93.27%",
+    "uptimeYear": "98.59%",
     "time": 809,
     "timeDay": 799,
     "timeWeek": 798,
     "timeMonth": 809,
     "timeYear": 809,
     "dailyMinutesDown": {
-      "2023-01-07": 51,
+      "2023-01-07": 53,
       "2023-01-06": 384,
       "2023-01-05": 477,
       "2023-01-04": 449,
@@ -24,7 +24,7 @@
       "2023-01-02": 411,
       "2023-01-01": 311,
       "2022-12-31": 546,
-      "2022-12-30": 18
+      "2022-12-30": 0
     }
   },
   {
@@ -32,11 +32,11 @@
     "url": "https://pve.tetragg.com",
     "icon": "https://www.proxmox.com/templates/yoo_nano2/favicon.ico",
     "slug": "proxmox",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "71.30%",
-    "uptimeWeek": "73.09%",
-    "uptimeMonth": "93.27%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "71.21%",
+    "uptimeWeek": "73.08%",
+    "uptimeMonth": "93.31%",
     "uptimeYear": "99.44%",
     "time": 763,
     "timeDay": 755,
@@ -44,7 +44,7 @@
     "timeMonth": 761,
     "timeYear": 763,
     "dailyMinutesDown": {
-      "2023-01-07": 51,
+      "2023-01-07": 52,
       "2023-01-06": 363,
       "2023-01-05": 469,
       "2023-01-04": 442,
@@ -52,7 +52,7 @@
       "2023-01-02": 405,
       "2023-01-01": 305,
       "2022-12-31": 537,
-      "2022-12-30": 76
+      "2022-12-30": 60
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://jellyfin.tetragg.com",
     "icon": "https://jellyfin.org/favicon.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "73.87%",
-    "uptimeWeek": "75.14%",
-    "uptimeMonth": "93.17%",
-    "uptimeYear": "99.43%",
+    "uptimeDay": "73.81%",
+    "uptimeWeek": "75.13%",
+    "uptimeMonth": "93.23%",
+    "uptimeYear": "99.44%",
     "time": 1081,
     "timeDay": 1077,
     "timeWeek": 1101,
     "timeMonth": 1042,
     "timeYear": 1097,
     "dailyMinutesDown": {
-      "2023-01-07": 50,
+      "2023-01-07": 51,
       "2023-01-06": 324,
       "2023-01-05": 465,
       "2023-01-04": 422,
@@ -80,7 +80,7 @@
       "2023-01-02": 365,
       "2023-01-01": 301,
       "2022-12-31": 468,
-      "2022-12-30": 327
+      "2022-12-30": 300
     }
   },
   {
@@ -88,11 +88,11 @@
     "url": "https://nextcloud.tetragg.com",
     "icon": "https://nextcloud.com/wp-content/themes/next/assets/img/common/favicon.png",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "76.36%",
+    "uptimeDay": "76.32%",
     "uptimeWeek": "76.69%",
-    "uptimeMonth": "92.80%",
+    "uptimeMonth": "92.84%",
     "uptimeYear": "99.40%",
     "time": 1298,
     "timeDay": 1388,
@@ -100,7 +100,7 @@
     "timeMonth": 1379,
     "timeYear": 1321,
     "dailyMinutesDown": {
-      "2023-01-07": 50,
+      "2023-01-07": 51,
       "2023-01-06": 291,
       "2023-01-05": 442,
       "2023-01-04": 417,
@@ -109,7 +109,7 @@
       "2023-01-01": 295,
       "2022-12-31": 450,
       "2022-12-30": 447,
-      "2022-12-29": 200
+      "2022-12-29": 183
     }
   }
 ]
