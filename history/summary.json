@@ -6,8 +6,8 @@
     "slug": "proxy",
     "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "73.02%",
-    "uptimeWeek": "76.80%",
+    "uptimeDay": "78.01%",
+    "uptimeWeek": "77.13%",
     "uptimeMonth": "93.59%",
     "uptimeYear": "98.85%",
     "time": 814,
@@ -34,13 +34,13 @@
     "slug": "proxmox",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "74.40%",
-    "uptimeWeek": "77.64%",
+    "uptimeDay": "79.37%",
+    "uptimeWeek": "77.97%",
     "uptimeMonth": "93.66%",
     "uptimeYear": "99.47%",
     "time": 765,
     "timeDay": 817,
-    "timeWeek": 750,
+    "timeWeek": 751,
     "timeMonth": 761,
     "timeYear": 765,
     "dailyMinutesDown": {
@@ -62,17 +62,17 @@
     "slug": "jellyfin",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "76.78%",
-    "uptimeWeek": "79.19%",
-    "uptimeMonth": "93.22%",
+    "uptimeDay": "82.75%",
+    "uptimeWeek": "79.66%",
+    "uptimeMonth": "93.20%",
     "uptimeYear": "99.43%",
     "time": 1028,
     "timeDay": 863,
-    "timeWeek": 839,
+    "timeWeek": 838,
     "timeMonth": 987,
     "timeYear": 1039,
     "dailyMinutesDown": {
-      "2023-01-31": 335,
+      "2023-01-31": 320,
       "2023-01-30": 318,
       "2023-01-29": 310,
       "2023-01-28": 289,
@@ -81,7 +81,7 @@
       "2023-01-25": 325,
       "2023-01-24": 353,
       "2023-01-23": 426,
-      "2023-01-22": 95
+      "2023-01-22": 118
     }
   },
   {
@@ -91,17 +91,17 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "78.05%",
-    "uptimeWeek": "80.68%",
-    "uptimeMonth": "91.74%",
+    "uptimeDay": "83.97%",
+    "uptimeWeek": "81.15%",
+    "uptimeMonth": "91.70%",
     "uptimeYear": "99.31%",
     "time": 1273,
     "timeDay": 1115,
-    "timeWeek": 1044,
+    "timeWeek": 1038,
     "timeMonth": 1267,
     "timeYear": 1288,
     "dailyMinutesDown": {
-      "2023-01-31": 316,
+      "2023-01-31": 302,
       "2023-01-30": 283,
       "2023-01-29": 289,
       "2023-01-28": 257,
@@ -111,7 +111,7 @@
       "2023-01-24": 349,
       "2023-01-23": 405,
       "2023-01-22": 766,
-      "2023-01-21": 155
+      "2023-01-21": 183
     }
   }
 ]
