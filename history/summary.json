@@ -4,19 +4,19 @@
     "url": "https://proxy.tetragg.com",
     "icon": "https://github.com/traefik/traefik/blob/master/webui/src/statics/icons/favicon.ico",
     "slug": "proxy",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "70.40%",
-    "uptimeWeek": "75.31%",
-    "uptimeMonth": "93.43%",
-    "uptimeYear": "98.91%",
+    "status": "down",
+    "uptime": "98.92%",
+    "uptimeDay": "70.28%",
+    "uptimeWeek": "75.30%",
+    "uptimeMonth": "93.48%",
+    "uptimeYear": "98.92%",
     "time": 815,
     "timeDay": 851,
     "timeWeek": 815,
-    "timeMonth": 822,
+    "timeMonth": 823,
     "timeYear": 815,
     "dailyMinutesDown": {
-      "2023-02-14": 341,
+      "2023-02-14": 343,
       "2023-02-13": 274,
       "2023-02-12": 377,
       "2023-02-11": 413,
@@ -24,7 +24,7 @@
       "2023-02-09": 381,
       "2023-02-08": 313,
       "2023-02-07": 353,
-      "2023-02-06": 137
+      "2023-02-06": 116
     }
   },
   {
@@ -32,11 +32,11 @@
     "url": "https://pve.tetragg.com",
     "icon": "https://www.proxmox.com/templates/yoo_nano2/favicon.ico",
     "slug": "proxmox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "70.72%",
-    "uptimeWeek": "75.87%",
-    "uptimeMonth": "93.53%",
+    "uptimeDay": "70.63%",
+    "uptimeWeek": "75.85%",
+    "uptimeMonth": "93.57%",
     "uptimeYear": "99.46%",
     "time": 761,
     "timeDay": 841,
@@ -44,7 +44,7 @@
     "timeMonth": 757,
     "timeYear": 761,
     "dailyMinutesDown": {
-      "2023-02-14": 336,
+      "2023-02-14": 337,
       "2023-02-13": 268,
       "2023-02-12": 370,
       "2023-02-11": 404,
@@ -52,7 +52,7 @@
       "2023-02-09": 373,
       "2023-02-08": 311,
       "2023-02-07": 345,
-      "2023-02-06": 152
+      "2023-02-06": 134
     }
   },
   {
@@ -60,11 +60,11 @@
     "url": "https://jellyfin.tetragg.com",
     "icon": "https://jellyfin.org/favicon.ico",
     "slug": "jellyfin",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "72.07%",
-    "uptimeWeek": "76.29%",
-    "uptimeMonth": "93.11%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "72.00%",
+    "uptimeWeek": "76.28%",
+    "uptimeMonth": "93.17%",
     "uptimeYear": "99.43%",
     "time": 992,
     "timeDay": 862,
@@ -72,7 +72,7 @@
     "timeMonth": 869,
     "timeYear": 1001,
     "dailyMinutesDown": {
-      "2023-02-14": 320,
+      "2023-02-14": 321,
       "2023-02-13": 251,
       "2023-02-12": 433,
       "2023-02-11": 365,
@@ -81,7 +81,7 @@
       "2023-02-08": 306,
       "2023-02-07": 341,
       "2023-02-06": 329,
-      "2023-02-05": 58
+      "2023-02-05": 30
     }
   },
   {
@@ -92,8 +92,8 @@
     "status": "down",
     "uptime": "99.21%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "61.34%",
-    "uptimeMonth": "88.14%",
+    "uptimeWeek": "61.29%",
+    "uptimeMonth": "88.12%",
     "uptimeYear": "99.01%",
     "time": 1226,
     "timeDay": 0,
@@ -101,7 +101,7 @@
     "timeMonth": 1131,
     "timeYear": 1239,
     "dailyMinutesDown": {
-      "2023-02-14": 883,
+      "2023-02-14": 888,
       "2023-02-13": 1440,
       "2023-02-12": 270,
       "2023-02-11": 345,
