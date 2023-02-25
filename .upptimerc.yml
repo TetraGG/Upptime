@@ -17,7 +17,6 @@ sites:
     method: GET
     headers:
       - "Authorization: Basic $BASIC_AUTH_TOKEN"
-      - "Content-Type: application/json"
     expectedStatusCodes:
       - 200
   - name: Proxmox
