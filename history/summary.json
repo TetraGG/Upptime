@@ -6,17 +6,16 @@
     "slug": "proxy",
     "status": "up",
     "uptime": "98.70%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "97.57%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.42%",
     "uptimeYear": "98.70%",
     "time": 818,
-    "timeDay": 1095,
-    "timeWeek": 974,
-    "timeMonth": 974,
+    "timeDay": 1236,
+    "timeWeek": 1021,
+    "timeMonth": 980,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2023-03-23": 5,
       "2023-03-08": 15,
       "2023-02-24": 736,
       "2023-02-23": 604,
@@ -26,7 +25,7 @@
       "2023-02-19": 227,
       "2023-02-18": 453,
       "2023-02-17": 261,
-      "2023-02-16": 183
+      "2023-02-16": 202
     }
   },
   {
@@ -35,18 +34,17 @@
     "icon": "https://www.proxmox.com/templates/yoo_nano2/favicon.ico",
     "slug": "proxmox",
     "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "99.33%",
+    "uptime": "99.48%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.32%",
     "time": 760,
-    "timeDay": 907,
-    "timeWeek": 742,
-    "timeMonth": 732,
+    "timeDay": 1015,
+    "timeWeek": 766,
+    "timeMonth": 724,
     "timeYear": 755,
     "dailyMinutesDown": {
-      "2023-03-23": 5,
       "2023-02-24": 57,
       "2023-02-23": 674,
       "2023-02-22": 644,
@@ -55,7 +53,7 @@
       "2023-02-19": 209,
       "2023-02-18": 448,
       "2023-02-17": 255,
-      "2023-02-16": 254
+      "2023-02-16": 284
     }
   },
   {
@@ -65,17 +63,16 @@
     "slug": "jellyfin",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.29%",
-    "time": 970,
-    "timeDay": 847,
-    "timeWeek": 776,
-    "timeMonth": 823,
+    "time": 969,
+    "timeDay": 933,
+    "timeWeek": 797,
+    "timeMonth": 762,
     "timeYear": 970,
     "dailyMinutesDown": {
-      "2023-03-23": 4,
       "2023-02-24": 56,
       "2023-02-23": 677,
       "2023-02-22": 591,
@@ -84,7 +81,8 @@
       "2023-02-19": 273,
       "2023-02-18": 492,
       "2023-02-17": 235,
-      "2023-02-16": 429
+      "2023-02-16": 429,
+      "2023-02-15": 30
     }
   },
   {
@@ -94,17 +92,16 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "97.65%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "98.59%",
-    "uptimeYear": "96.81%",
-    "time": 1268,
-    "timeDay": 2199,
-    "timeWeek": 1960,
-    "timeMonth": 1921,
-    "timeYear": 1271,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "96.80%",
+    "time": 1269,
+    "timeDay": 2289,
+    "timeWeek": 2011,
+    "timeMonth": 2023,
+    "timeYear": 1272,
     "dailyMinutesDown": {
-      "2023-03-23": 4,
       "2023-02-24": 56,
       "2023-02-23": 1210,
       "2023-02-22": 1440,
@@ -124,7 +121,7 @@
       "2023-02-08": 302,
       "2023-02-07": 302,
       "2023-02-06": 323,
-      "2023-02-05": 77
+      "2023-02-05": 111
     }
   }
 ]
