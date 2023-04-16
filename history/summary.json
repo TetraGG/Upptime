@@ -11,9 +11,9 @@
     "uptimeMonth": "99.57%",
     "uptimeYear": "98.82%",
     "time": 825,
-    "timeDay": 979,
-    "timeWeek": 990,
-    "timeMonth": 1146,
+    "timeDay": 766,
+    "timeWeek": 956,
+    "timeMonth": 1139,
     "timeYear": 825,
     "dailyMinutesDown": {
       "2023-04-15": 16,
@@ -43,9 +43,9 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.32%",
     "time": 772,
-    "timeDay": 845,
-    "timeWeek": 758,
-    "timeMonth": 1415,
+    "timeDay": 565,
+    "timeWeek": 708,
+    "timeMonth": 1411,
     "timeYear": 769,
     "dailyMinutesDown": {
       "2023-04-15": 16,
@@ -74,9 +74,9 @@
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.30%",
     "time": 973,
-    "timeDay": 801,
-    "timeWeek": 792,
-    "timeMonth": 1078,
+    "timeDay": 858,
+    "timeWeek": 768,
+    "timeMonth": 1082,
     "timeYear": 975,
     "dailyMinutesDown": {
       "2023-04-15": 15,
@@ -100,17 +100,16 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "96.37%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "76.30%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "76.33%",
     "uptimeYear": "94.84%",
-    "time": 1281,
-    "timeDay": 2059,
-    "timeWeek": 2091,
-    "timeMonth": 2240,
+    "time": 1282,
+    "timeDay": 1978,
+    "timeWeek": 2035,
+    "timeMonth": 2237,
     "timeYear": 1286,
     "dailyMinutesDown": {
-      "2023-04-15": 15,
       "2023-04-03": 1223,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
@@ -138,7 +137,7 @@
       "2023-02-08": 302,
       "2023-02-07": 302,
       "2023-02-06": 323,
-      "2023-02-05": 62
+      "2023-02-05": 77
     }
   }
 ]
