@@ -6,17 +6,16 @@
     "slug": "proxy",
     "status": "up",
     "uptime": "98.82%",
-    "uptimeDay": "98.54%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "98.82%",
     "time": 825,
-    "timeDay": 907,
-    "timeWeek": 979,
-    "timeMonth": 1140,
+    "timeDay": 1100,
+    "timeWeek": 981,
+    "timeMonth": 1143,
     "timeYear": 825,
     "dailyMinutesDown": {
-      "2023-04-16": 5,
       "2023-04-15": 16,
       "2023-04-03": 69,
       "2023-03-27": 104,
@@ -29,7 +28,7 @@
       "2023-02-19": 227,
       "2023-02-18": 453,
       "2023-02-17": 261,
-      "2023-02-16": 19
+      "2023-02-16": 34
     }
   },
   {
@@ -39,17 +38,16 @@
     "slug": "proxmox",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "98.60%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.32%",
     "time": 772,
-    "timeDay": 641,
-    "timeWeek": 717,
-    "timeMonth": 1401,
+    "timeDay": 791,
+    "timeWeek": 703,
+    "timeMonth": 1403,
     "timeYear": 769,
     "dailyMinutesDown": {
-      "2023-04-16": 5,
       "2023-04-15": 16,
       "2023-04-03": 23,
       "2023-03-27": 89,
@@ -61,7 +59,7 @@
       "2023-02-19": 209,
       "2023-02-18": 448,
       "2023-02-17": 255,
-      "2023-02-16": 150
+      "2023-02-16": 166
     }
   },
   {
@@ -71,17 +69,16 @@
     "slug": "jellyfin",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "98.67%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.31%",
-    "time": 973,
-    "timeDay": 834,
-    "timeWeek": 770,
-    "timeMonth": 1077,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.30%",
+    "time": 972,
+    "timeDay": 821,
+    "timeWeek": 780,
+    "timeMonth": 1080,
     "timeYear": 975,
     "dailyMinutesDown": {
-      "2023-04-16": 4,
       "2023-04-15": 15,
       "2023-04-03": 68,
       "2023-03-27": 88,
@@ -93,7 +90,7 @@
       "2023-02-19": 273,
       "2023-02-18": 492,
       "2023-02-17": 235,
-      "2023-02-16": 181
+      "2023-02-16": 235
     }
   },
   {
@@ -102,18 +99,17 @@
     "icon": "https://nextcloud.com/wp-content/themes/next/assets/img/common/favicon.png",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "96.37%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "76.32%",
+    "uptime": "96.38%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "76.33%",
     "uptimeYear": "94.84%",
-    "time": 1282,
-    "timeDay": 2032,
-    "timeWeek": 2045,
-    "timeMonth": 2234,
+    "time": 1283,
+    "timeDay": 2151,
+    "timeWeek": 2047,
+    "timeMonth": 2244,
     "timeYear": 1287,
     "dailyMinutesDown": {
-      "2023-04-16": 4,
       "2023-04-03": 1223,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
@@ -141,7 +137,7 @@
       "2023-02-08": 302,
       "2023-02-07": 302,
       "2023-02-06": 323,
-      "2023-02-05": 62
+      "2023-02-05": 77
     }
   }
 ]
