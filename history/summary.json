@@ -110,19 +110,19 @@
     "url": "https://nextcloud.tetragg.com",
     "icon": "https://nextcloud.com/wp-content/themes/next/assets/img/common/favicon.png",
     "slug": "nextcloud",
-    "status": "up",
-    "uptime": "96.72%",
-    "uptimeDay": "77.25%",
-    "uptimeWeek": "96.75%",
-    "uptimeMonth": "98.84%",
+    "status": "down",
+    "uptime": "96.73%",
+    "uptimeDay": "77.15%",
+    "uptimeWeek": "96.74%",
+    "uptimeMonth": "98.83%",
     "uptimeYear": "94.76%",
-    "time": 1330,
+    "time": 1331,
     "timeDay": 9460,
     "timeWeek": 4266,
     "timeMonth": 3043,
     "timeYear": 1345,
     "dailyMinutesDown": {
-      "2023-06-19": 328,
+      "2023-06-19": 329,
       "2023-05-31": 74,
       "2023-05-30": 9,
       "2023-05-24": 99,
@@ -152,7 +152,7 @@
       "2023-02-09": 331,
       "2023-02-08": 302,
       "2023-02-07": 302,
-      "2023-02-06": 307
+      "2023-02-06": 281
     }
   }
 ]
