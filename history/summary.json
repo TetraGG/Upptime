@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 1023,
-    "timeDay": 803,
-    "timeWeek": 956,
-    "timeMonth": 955,
-    "timeYear": 1009,
+    "time": 1025,
+    "timeDay": 1416,
+    "timeWeek": 1041,
+    "timeMonth": 974,
+    "timeYear": 1010,
     "dailyMinutesDown": {
       "2024-03-31": 65,
       "2024-03-28": 27,
@@ -24,8 +24,7 @@
       "2024-02-11": 221,
       "2023-06-19": 154,
       "2023-05-31": 74,
-      "2023-05-30": 11,
-      "2023-05-24": 134
+      "2023-05-30": 11
     }
   },
   {
@@ -39,11 +38,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 853,
-    "timeDay": 718,
-    "timeWeek": 692,
-    "timeMonth": 714,
-    "timeYear": 790,
+    "time": 854,
+    "timeDay": 892,
+    "timeWeek": 728,
+    "timeMonth": 726,
+    "timeYear": 791,
     "dailyMinutesDown": {
       "2024-03-31": 65,
       "2024-03-28": 22,
@@ -53,8 +52,7 @@
       "2024-02-11": 220,
       "2023-06-19": 152,
       "2023-05-31": 74,
-      "2023-05-30": 10,
-      "2023-05-24": 129
+      "2023-05-30": 10
     }
   },
   {
@@ -63,15 +61,15 @@
     "icon": "https://jellyfin.org/favicon.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "93.60%",
+    "uptime": "93.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "84.51%",
     "time": 1295,
-    "timeDay": 739,
-    "timeWeek": 750,
-    "timeMonth": 791,
+    "timeDay": 868,
+    "timeWeek": 775,
+    "timeMonth": 799,
     "timeYear": 1419,
     "dailyMinutesDown": {
       "2024-04-17": 60,
@@ -137,8 +135,7 @@
       "2024-01-23": 4,
       "2023-06-19": 338,
       "2023-05-31": 74,
-      "2023-05-30": 10,
-      "2023-05-24": 115
+      "2023-05-30": 10
     }
   },
   {
@@ -147,16 +144,16 @@
     "icon": "https://nextcloud.com/wp-content/themes/next/assets/img/common/favicon.png",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "97.19%",
+    "uptime": "97.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.00%",
-    "time": 1462,
-    "timeDay": 613,
-    "timeWeek": 821,
-    "timeMonth": 895,
-    "timeYear": 1286,
+    "time": 1460,
+    "timeDay": 1102,
+    "timeWeek": 891,
+    "timeMonth": 899,
+    "timeYear": 1283,
     "dailyMinutesDown": {
       "2024-03-31": 64,
       "2024-03-28": 22,
@@ -175,8 +172,7 @@
       "2023-06-20": 32,
       "2023-06-19": 328,
       "2023-05-31": 74,
-      "2023-05-30": 9,
-      "2023-05-24": 99
+      "2023-05-30": 9
     }
   }
 ]
