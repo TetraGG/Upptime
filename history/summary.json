@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
-    "time": 994,
-    "timeDay": 798,
-    "timeWeek": 865,
-    "timeMonth": 988,
-    "timeYear": 994,
+    "time": 995,
+    "timeDay": 1232,
+    "timeWeek": 915,
+    "timeMonth": 1003,
+    "timeYear": 996,
     "dailyMinutesDown": {
       "2024-12-24": 132,
       "2024-11-29": 44,
@@ -25,8 +25,7 @@
       "2024-03-28": 27,
       "2024-03-19": 36,
       "2024-03-18": 35,
-      "2024-03-17": 17,
-      "2024-02-11": 221
+      "2024-03-17": 17
     }
   },
   {
@@ -40,11 +39,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
-    "time": 751,
-    "timeDay": 655,
-    "timeWeek": 630,
-    "timeMonth": 731,
-    "timeYear": 754,
+    "time": 750,
+    "timeDay": 587,
+    "timeWeek": 620,
+    "timeMonth": 730,
+    "timeYear": 753,
     "dailyMinutesDown": {
       "2024-12-24": 130,
       "2024-11-29": 44,
@@ -54,8 +53,7 @@
       "2024-03-28": 22,
       "2024-03-19": 36,
       "2024-03-18": 35,
-      "2024-03-17": 45,
-      "2024-02-11": 220
+      "2024-03-17": 45
     }
   },
   {
@@ -64,16 +62,16 @@
     "icon": "https://jellyfin.org/favicon.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "94.97%",
+    "uptime": "94.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.82%",
+    "uptimeYear": "89.10%",
     "time": 1225,
-    "timeDay": 741,
-    "timeWeek": 723,
-    "timeMonth": 809,
-    "timeYear": 1182,
+    "timeDay": 768,
+    "timeWeek": 727,
+    "timeMonth": 802,
+    "timeYear": 1175,
     "dailyMinutesDown": {
       "2024-12-24": 130,
       "2024-11-29": 43,
@@ -119,8 +117,7 @@
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
-      "2024-02-12": 1440,
-      "2024-02-11": 1440
+      "2024-02-12": 1440
     }
   },
   {
@@ -135,10 +132,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.79%",
     "time": 1062,
-    "timeDay": 971,
-    "timeWeek": 839,
+    "timeDay": 931,
+    "timeWeek": 859,
     "timeMonth": 935,
-    "timeYear": 1107,
+    "timeYear": 1108,
     "dailyMinutesDown": {
       "2024-12-24": 128,
       "2024-11-29": 43,
@@ -156,8 +153,7 @@
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
-      "2024-02-12": 1440,
-      "2024-02-11": 483
+      "2024-02-12": 1440
     }
   }
 ]
