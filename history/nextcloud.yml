@@ -1,7 +1,7 @@
 url: https://nextcloud.tetragg.com
-status: down
-code: 503
-responseTime: 566
-lastUpdated: 2025-04-15T13:47:39.099Z
+status: up
+code: 200
+responseTime: 955
+lastUpdated: 2025-04-15T13:58:25.821Z
 startTime: 2021-11-13T00:38:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
