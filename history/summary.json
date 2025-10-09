@@ -5,16 +5,16 @@
     "icon": "https://github.com/traefik/traefik/blob/master/webui/src/statics/icons/favicon.ico",
     "slug": "proxy",
     "status": "up",
-    "uptime": "97.73%",
+    "uptime": "97.74%",
     "uptimeDay": "95.71%",
     "uptimeWeek": "99.39%",
-    "uptimeMonth": "79.28%",
+    "uptimeMonth": "81.29%",
     "uptimeYear": "93.81%",
-    "time": 1027,
-    "timeDay": 987,
-    "timeWeek": 1100,
-    "timeMonth": 1087,
-    "timeYear": 1022,
+    "time": 1028,
+    "timeDay": 1238,
+    "timeWeek": 1110,
+    "timeMonth": 1096,
+    "timeYear": 1023,
     "dailyMinutesDown": {
       "2025-10-08": 62,
       "2025-09-14": 1010,
@@ -47,8 +47,7 @@
       "2025-03-11": 78,
       "2025-02-13": 270,
       "2024-12-24": 132,
-      "2024-11-29": 44,
-      "2024-10-09": 31
+      "2024-11-29": 44
     }
   },
   {
@@ -60,13 +59,13 @@
     "uptime": "98.18%",
     "uptimeDay": "95.74%",
     "uptimeWeek": "99.39%",
-    "uptimeMonth": "79.28%",
+    "uptimeMonth": "81.29%",
     "uptimeYear": "93.82%",
-    "time": 778,
-    "timeDay": 742,
-    "timeWeek": 872,
-    "timeMonth": 810,
-    "timeYear": 784,
+    "time": 779,
+    "timeDay": 872,
+    "timeWeek": 902,
+    "timeMonth": 813,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2025-10-08": 61,
       "2025-09-14": 1010,
@@ -98,8 +97,7 @@
       "2025-03-11": 72,
       "2025-02-13": 269,
       "2024-12-24": 130,
-      "2024-11-29": 44,
-      "2024-10-09": 30
+      "2024-11-29": 44
     }
   },
   {
@@ -108,18 +106,19 @@
     "icon": "https://jellyfin.org/favicon.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "92.45%",
+    "uptime": "92.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "86.71%",
-    "time": 1084,
-    "timeDay": 3691,
-    "timeWeek": 3788,
-    "timeMonth": 3796,
-    "timeYear": 1146,
+    "uptimeYear": "86.54%",
+    "time": 1090,
+    "timeDay": 3625,
+    "timeWeek": 3790,
+    "timeMonth": 3789,
+    "timeYear": 1154,
     "dailyMinutesDown": {
-      "2025-10-08": 634,
+      "2025-10-09": 75,
+      "2025-10-08": 1440,
       "2025-10-07": 1440,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
@@ -176,8 +175,7 @@
       "2025-03-11": 71,
       "2025-02-13": 269,
       "2024-12-24": 130,
-      "2024-11-29": 43,
-      "2024-10-09": 30
+      "2024-11-29": 43
     }
   },
   {
@@ -186,16 +184,16 @@
     "icon": "https://nextcloud.com/wp-content/themes/next/assets/img/common/favicon.png",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "94.72%",
+    "uptime": "94.73%",
     "uptimeDay": "94.56%",
-    "uptimeWeek": "76.37%",
-    "uptimeMonth": "72.67%",
+    "uptimeWeek": "85.11%",
+    "uptimeMonth": "74.68%",
     "uptimeYear": "86.51%",
     "time": 1061,
-    "timeDay": 956,
-    "timeWeek": 1038,
-    "timeMonth": 1001,
-    "timeYear": 1079,
+    "timeDay": 960,
+    "timeWeek": 1076,
+    "timeMonth": 997,
+    "timeYear": 1078,
     "dailyMinutesDown": {
       "2025-10-08": 78,
       "2025-10-03": 57,
@@ -259,8 +257,7 @@
       "2024-12-24": 128,
       "2024-11-29": 43,
       "2024-11-13": 648,
-      "2024-11-10": 61,
-      "2024-10-09": 29
+      "2024-11-10": 61
     }
   }
 ]
