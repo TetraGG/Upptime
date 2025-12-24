@@ -5,16 +5,16 @@
     "icon": "https://github.com/traefik/traefik/blob/master/webui/src/statics/icons/favicon.ico",
     "slug": "proxy",
     "status": "up",
-    "uptime": "97.87%",
+    "uptime": "97.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.83%",
-    "time": 1028,
-    "timeDay": 1080,
-    "timeWeek": 1092,
-    "timeMonth": 1055,
-    "timeYear": 1040,
+    "time": 1029,
+    "timeDay": 1198,
+    "timeWeek": 1146,
+    "timeMonth": 1047,
+    "timeYear": 1041,
     "dailyMinutesDown": {
       "2025-10-08": 62,
       "2025-09-14": 1010,
@@ -45,8 +45,7 @@
       "2025-04-28": 479,
       "2025-03-20": 42,
       "2025-03-11": 78,
-      "2025-02-13": 270,
-      "2024-12-24": 132
+      "2025-02-13": 270
     }
   },
   {
@@ -60,11 +59,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.84%",
-    "time": 782,
-    "timeDay": 661,
-    "timeWeek": 800,
-    "timeMonth": 783,
-    "timeYear": 799,
+    "time": 783,
+    "timeDay": 1101,
+    "timeWeek": 875,
+    "timeMonth": 788,
+    "timeYear": 801,
     "dailyMinutesDown": {
       "2025-10-08": 61,
       "2025-09-14": 1010,
@@ -94,8 +93,7 @@
       "2025-06-10": 39,
       "2025-04-28": 479,
       "2025-03-11": 72,
-      "2025-02-13": 269,
-      "2024-12-24": 130
+      "2025-02-13": 269
     }
   },
   {
@@ -104,18 +102,19 @@
     "icon": "https://jellyfin.org/favicon.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "87.80%",
+    "uptime": "87.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "66.01%",
-    "time": 1561,
-    "timeDay": 3720,
-    "timeWeek": 3824,
-    "timeMonth": 3804,
-    "timeYear": 1787,
+    "uptimeYear": "65.73%",
+    "time": 1568,
+    "timeDay": 3734,
+    "timeWeek": 3833,
+    "timeMonth": 3786,
+    "timeYear": 1795,
     "dailyMinutesDown": {
-      "2025-12-23": 85,
+      "2025-12-24": 84,
+      "2025-12-23": 1440,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
@@ -246,8 +245,7 @@
       "2025-03-15": 1440,
       "2025-03-14": 380,
       "2025-03-11": 71,
-      "2025-02-13": 269,
-      "2024-12-24": 130
+      "2025-02-13": 269
     }
   },
   {
@@ -262,9 +260,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "84.00%",
     "time": 1095,
-    "timeDay": 932,
-    "timeWeek": 930,
-    "timeMonth": 949,
+    "timeDay": 1007,
+    "timeWeek": 964,
+    "timeMonth": 947,
     "timeYear": 1071,
     "dailyMinutesDown": {
       "2025-11-10": 1096,
@@ -335,8 +333,7 @@
       "2025-03-15": 1440,
       "2025-03-14": 379,
       "2025-03-11": 70,
-      "2025-02-13": 268,
-      "2024-12-24": 128
+      "2025-02-13": 268
     }
   }
 ]
