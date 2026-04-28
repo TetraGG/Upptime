@@ -5,18 +5,19 @@
     "icon": "https://github.com/traefik/traefik/blob/master/webui/src/statics/icons/favicon.ico",
     "slug": "proxy",
     "status": "down",
-    "uptime": "89.01%",
+    "uptime": "88.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "60.37%",
-    "time": 1045,
+    "uptimeYear": "60.09%",
+    "time": 1044,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1052,
     "dailyMinutesDown": {
-      "2026-04-27": 154,
+      "2026-04-28": 162,
+      "2026-04-27": 1440,
       "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
@@ -165,8 +166,7 @@
       "2025-08-24": 926,
       "2025-07-01": 439,
       "2025-06-30": 168,
-      "2025-06-10": 40,
-      "2025-04-28": 479
+      "2025-06-10": 40
     }
   },
   {
@@ -175,18 +175,19 @@
     "icon": "https://www.proxmox.com/templates/yoo_nano2/favicon.ico",
     "slug": "proxmox",
     "status": "down",
-    "uptime": "90.72%",
+    "uptime": "90.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "60.01%",
+    "uptimeYear": "59.73%",
     "time": 802,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 795,
+    "timeYear": 796,
     "dailyMinutesDown": {
-      "2026-04-27": 154,
+      "2026-04-28": 162,
+      "2026-04-27": 1440,
       "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
@@ -336,8 +337,7 @@
       "2025-08-24": 926,
       "2025-07-01": 439,
       "2025-06-30": 167,
-      "2025-06-10": 39,
-      "2025-04-28": 479
+      "2025-06-10": 39
     }
   },
   {
@@ -346,18 +346,19 @@
     "icon": "https://jellyfin.org/favicon.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "81.04%",
+    "uptime": "80.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.46%",
-    "time": 1841,
+    "uptimeYear": "32.18%",
+    "time": 1844,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2187,
+    "timeYear": 2194,
     "dailyMinutesDown": {
-      "2026-04-27": 154,
+      "2026-04-28": 162,
+      "2026-04-27": 1440,
       "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
@@ -606,8 +607,7 @@
       "2025-08-24": 925,
       "2025-07-01": 439,
       "2025-06-30": 167,
-      "2025-06-10": 39,
-      "2025-04-28": 478
+      "2025-06-10": 39
     }
   },
   {
@@ -616,18 +616,19 @@
     "icon": "https://nextcloud.com/wp-content/themes/next/assets/img/common/favicon.png",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "87.17%",
+    "uptime": "87.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.00%",
-    "time": 1083,
+    "uptimeYear": "51.72%",
+    "time": 1084,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1036,
+    "timeYear": 1037,
     "dailyMinutesDown": {
-      "2026-04-27": 154,
+      "2026-04-28": 162,
+      "2026-04-27": 1440,
       "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
@@ -808,8 +809,7 @@
       "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
-      "2025-05-01": 1343,
-      "2025-04-28": 478
+      "2025-05-01": 1343
     }
   }
 ]
